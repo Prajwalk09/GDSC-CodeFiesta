@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697387183 source:c:\users\prajw\onedrive\desktop\week-2\problem-2\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
