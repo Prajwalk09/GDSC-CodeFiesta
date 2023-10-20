@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697818385 source:c:\users\prajw\onedrive\desktop\codefiesta\minimize_string_length\main.cpp
+	<iostream>
+	<unordered_map>
+
