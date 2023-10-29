@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698594597 source:c:\users\prajw\onedrive\desktop\week-2\contest week-4\simplify addition\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
