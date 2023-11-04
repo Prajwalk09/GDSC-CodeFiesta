@@ -1,6 +1,7 @@
 #include <iostream>
 
 using namespace std;
+// Question Link: https://leetcode.com/problems/power-of-two/
 
 class Solution
 {
