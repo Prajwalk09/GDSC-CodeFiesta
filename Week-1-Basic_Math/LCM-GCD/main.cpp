@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
+/* Question Link: https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1*/
 
 class Solution
 {
