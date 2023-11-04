@@ -4,6 +4,7 @@ using namespace std;
 
 // } Driver Code Ends
 //User function Template for C++
+// Question Link: https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1
 class Solution
 {
 public:
