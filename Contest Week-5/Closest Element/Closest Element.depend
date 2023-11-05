@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699200681 source:c:\users\prajw\onedrive\desktop\codefiesta\contest week-5\closest element\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<map>
+
