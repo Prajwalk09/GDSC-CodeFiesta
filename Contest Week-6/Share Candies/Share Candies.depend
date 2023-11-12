@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699809129 source:c:\users\prajw\onedrive\desktop\codefiesta\contest week-6\share candies\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
